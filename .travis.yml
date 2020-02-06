@@ -10,6 +10,9 @@ notifications:
     recipients:
       - veix123@gmail.com
       - valnerrobert@gmail.com
+branches:
+  only:
+  - melodic-devel
 env:
   global: # global settings for all jobs
     - ROS_REPO=ros
