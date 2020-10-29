@@ -1,3 +1,27 @@
 [submodule "robotont_description"]
 	path = robotont_description
 	url = https://github.com/robotont/robotont_description
+[submodule "robotont_demos"]
+	path = robotont_demos
+	url = https://github.com/robotont/robotont_demos.git
+[submodule "robotont_gazebo"]
+	path = robotont_gazebo
+	url = https://github.com/robotont/robotont_gazebo.git
+[submodule "robotont_nuc_description"]
+	path = robotont_nuc_description
+	url = https://github.com/robotont/robotont_nuc_description.git
+[submodule "robotont_navigation"]
+	path = robotont_navigation
+	url = https://github.com/robotont/robotont_navigation.git
+[submodule "robotont_driver"]
+	path = robotont_driver
+	url = https://github.com/robotont/robotont_driver.git
+[submodule "robotont_support"]
+	path = robotont_support
+	url = https://github.com/robotont/robotont_support.git
+[submodule "robotont_laserscan_to_distance"]
+	path = robotont_laserscan_to_distance
+	url = https://github.com/robotont/robotont_laserscan_to_distance.git
+[submodule "robotont_msgs"]
+	path = robotont_msgs
+	url = https://github.com/robotont/robotont_msgs.git
