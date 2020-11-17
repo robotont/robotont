@@ -7,5 +7,5 @@ The metapackage for robotont
 **Cloning the repository:**
 
 ```bash
-git clone --recurse-submodules https://github.com/robotont/robotont.git
+git clone --recursive https://github.com/robotont/robotont.git
 ```
